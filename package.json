@@ -1,0 +1,20 @@
+{
+  "name": "cucumber-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "cucumber-js feature"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chromedriver": "^119.0.1",
+    "cucumber": "^6.0.7",
+    "puppeteer": "^21.5.1",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
